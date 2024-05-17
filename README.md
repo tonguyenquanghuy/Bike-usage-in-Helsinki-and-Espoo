@@ -14,17 +14,17 @@ Description: information about HSL's bike stations name, the covered distance an
 Note: in this project, we use the term "route" to refer a pair of 2 stations
 
 - Additional dataset:
-+ File: Espoo_additional_dataset.cs
-Description: Population statistic of Espoo
+  File: Espoo_additional_dataset.cs
+  Description: Population statistic of Espoo
 
-+ File: Helsinki_additional_dataset.csv
-Description: Population statistic of Helsinki
+  File: Helsinki_additional_dataset.csv
+  Description: Population statistic of Helsinki
 
-+ File: latitude_longitude_additional_dataset.csv
-Description: Population statistic of Espoo
+  File: latitude_longitude_additional_dataset.csv
+  Description: Population statistic of Espoo
 
-+ File: latitude_longitude_additional_dataset.csv
-Description: The geographical latitude and longitude of each sub-regions in Helsinki and Espoo. This is obtained by using the Google Map API (see the section 2)
+  File: latitude_longitude_additional_dataset.csv
+  Description: The geographical latitude and longitude of each sub-regions in Helsinki and Espoo. This is obtained by using the Google Map API (see the section 2)
 
-+ File: station_area_additional_dataset.csv
-Description: The data mapping between the station names and sub-region names. This is obtain by using Google Map API and mappping the geographical information (see the section 2)
+  File: station_area_additional_dataset.csv
+  Description: The data mapping between the station names and sub-region names. This is obtain by using Google Map API and mappping the geographical information (see the section 2)
