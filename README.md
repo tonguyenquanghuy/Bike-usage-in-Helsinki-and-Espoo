@@ -14,7 +14,8 @@ Description: information about HSL's bike stations name, the covered distance an
 Note: in this project, we use the term "route" to refer a pair of 2 stations
 
 - Additional dataset:
--   File: Espoo_additional_dataset.cs
+
+  File: Espoo_additional_dataset.cs
   Description: Population statistic of Espoo
 
   File: Helsinki_additional_dataset.csv
