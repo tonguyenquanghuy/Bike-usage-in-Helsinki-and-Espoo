@@ -8,31 +8,28 @@ PRELIMINARY ASSUMPTIONS:
 - Younger people live near the center than older people.
 
 DATASETS:
-- Main dataset:
+1. Main dataset:
+
 File: hsl_main_dataset.csv (This file is not uploaded because of its large size but can be easily obtained from HSL website.)
 
 Description: information about HSL's bike stations name, the covered distance and covered duration of each route
 
 Note: in this project, we use the term "route" to refer a pair of 2 stations
 
-- Additional dataset:
-
-  File: Espoo_additional_dataset.cs
+2. Additional dataset:
+- File: Espoo_additional_dataset.cs
 
   Description: Population statistic of Espoo
 
-  File: Helsinki_additional_dataset.csv
+- File: Helsinki_additional_dataset.csv
 
   Description: Population statistic of Helsinki
 
-  File: latitude_longitude_additional_dataset.csv
-
+- File: latitude_longitude_additional_dataset.csv
   Description: Population statistic of Espoo
 
-  File: latitude_longitude_additional_dataset.csv
-
+- File: latitude_longitude_additional_dataset.csv
   Description: The geographical latitude and longitude of each sub-regions in Helsinki and Espoo. This is obtained by using the Google Map API (see the section 2)
 
   File: station_area_additional_dataset.csv
-
   Description: The data mapping between the station names and sub-region names. This is obtain by using Google Map API and mappping the geographical information (see the section 2)
