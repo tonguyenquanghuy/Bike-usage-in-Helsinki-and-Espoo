@@ -28,8 +28,8 @@ DATASETS:
 
 - File: latitude_longitude_additional_dataset.csv
 
-  Description: The geographical latitude and longitude of each sub-regions in Helsinki and Espoo. This is obtained by using the Google Map API (see the section 2)
+  Description: The geographical latitude and longitude of each sub-regions in Helsinki and Espoo. This is obtained by using the Google Map API
 
 - File: station_area_additional_dataset.csv
 
-  Description: The data mapping between the station names and sub-region names. This is obtain by using Google Map API and mappping the geographical information (see the section 2)
+  Description: The data mapping between the station names and sub-region names. This is obtain by using Google Map API and mappping the geographical information
