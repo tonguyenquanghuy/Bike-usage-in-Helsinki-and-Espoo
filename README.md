@@ -1,13 +1,15 @@
-ABOUT THE PROJECT: This is a group project in a programming course where we aimed to discover any possible relations between bike usage and population distribution in Helsinki and Espoo through visualising data using Python. 
+# ABOUT THE PROJECT
+This is a group project in a programming course where we aimed to discover any possible relations between bike usage and population distribution in Helsinki and Espoo through visualising data using Python. 
 
-MOTIVATION: HSL provides bike services for Helsinki and Espoo, but the services are still limited. Therefore, we would like to examine the pattern of bikes usage in Helsinki and Espoo and recommend which regions HSL should build more bike stations.
+# MOTIVATION
+HSL provides bike services for Helsinki and Espoo, but the services are still limited. Therefore, we would like to examine the pattern of bikes usage in Helsinki and Espoo and recommend which regions HSL should build more bike stations.
 
-PRELIMINARY ASSUMPTIONS:
+# PRELIMINARY ASSUMPTIONS
 - Area-specific population is correlated with total cycling distance and total cycling duration.
 - Age group is correlated with geographical population distribution.
 - Younger people live near the center than older people.
 
-DATASETS:
+# DATASETS
 1. Main dataset:
 - File: hsl_main_dataset.csv (This file is not uploaded because of its large size but can be easily obtained from HSL website.)
 - Description: information about HSL's bike stations name, the covered distance and covered duration of each route
