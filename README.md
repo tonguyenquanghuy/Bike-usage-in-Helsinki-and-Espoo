@@ -10,12 +10,12 @@ HSL provides bike services for Helsinki and Espoo, but the services are still li
 - Younger people live near the center than older people.
 
 # DATASETS
-## Main dataset:
+## Main dataset
 - File: hsl_main_dataset.csv (This file is not uploaded because of its large size but can be easily obtained from HSL website.)
 - Description: information about HSL's bike stations name, the covered distance and covered duration of each route
 - Note: in this project, we use the term "route" to refer a pair of 2 stations
 
-## Additional dataset:
+## Additional dataset
 - File: Espoo_additional_dataset.cs
 
   Description: Population statistic of Espoo
